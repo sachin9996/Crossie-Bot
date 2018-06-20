@@ -311,6 +311,7 @@ if __name__ == '__main__':
 		if flag:
 			new_clues = get_clues_from_file(NEW_CHATFILE_NAME)
 			old_clues = get_clues_from_file(OLD_CHATFILE_NAME)
-			all_clues = make_unique(old_clues + new_clues)
+			older_clues = get_clues_from_file(OLDER_CHATFILE_NAME)
+			all_clues = make_unique(older_clues + old_clues + new_clues)
 			push_clues_to_sheet(all_clues)
 		epoch += 1
