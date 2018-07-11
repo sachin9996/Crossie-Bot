@@ -8,13 +8,14 @@ from pprint import pprint
 ################# Some globals ###############
 
 TIME_BETWEEN_UPDATES = 3 # in seconds
-NEW_CHATFILE_NAME = './chats/new_chat'
-OLD_CHATFILE_NAME = './chats/old_chat'
-OLDER_CHATFILE_NAME = './chats/older_chat'
+NEW_CHATFILE_NAME = './chats/new_chat.txt'
+OLD_CHATFILE_NAME = './chats/old_chat.txt'
+OLDER_CHATFILE_NAME = './chats/older_chat.txt'
 GROUP_ID = '919962301632-1494342185@g.us'
 SACHIN_CHAT_ID = '919962126770@c.us'
 BUT_WHY_LINK = 'https://www.youtube.com/watch?v=K4smXP46tG4'
-SHEET_LINK = 'https://docs.google.com/spreadsheets/d/1n1fAjkz6VnBuTZNX1Hh9zQZhKoblquf-FBxOTuIgs1o/edit#gid=0'
+BOT_SHEET_LINK = 'https://docs.google.com/spreadsheets/d/1n1fAjkz6VnBuTZNX1Hh9zQZhKoblquf-FBxOTuIgs1o/edit#gid=0'
+STABLE_SHEET_LINK = 'https://docs.google.com/spreadsheets/d/1WMd7kVnGJypUmbnlir9_wh3XH0_Osb9PPh5m7mknJoQ/edit#gid=0'
 
 ####### The help string #######
 
@@ -25,8 +26,12 @@ HELP_STRING = '*Crossie bot help*' + \
 'but I can also do a few others things.' + \
 '\n\n' + \
 'All clues from this group (and older ones) are archived at ' + \
-SHEET_LINK + ' (editable sheet). If you do not find your clue there within a day of posting, ' + \
+BOT_SHEET_LINK + ' (editable sheet). If you do not find your clue there within a day of posting, ' + \
 'be sure to ask Sachin about it.' + \
+'\n\n' + \
+'A stable copy of the sheet is available at ' + STABLE_SHEET_LINK + ' (editable sheet). ' + \
+'It\'s stable because I do not make any updates there, so feel free to edit/answer clues there. ' + \
+'Think of it as a refined list of clues.' + \
 '\n\n' + \
 '*Messages I respond to (case insensitive)*' + \
 '\n\n' + \
@@ -55,6 +60,9 @@ SHEET_LINK + ' (editable sheet). If you do not find your clue there within a day
 'enum of the last clue in a message is ignored. ' + \
 'Clues that span multiple lines are currently unsupported and will not be archived._' + \
 '\n\n' + \
+'_Clues containing ~thc, ~reddit, ~ccs, or ~guardian (case insensitive) are archived on a separate ' + \
+'tab of the same sheet. Clues containing #repost or #repeat (case insensitive) are ignored._' + \
+'\n\n' + \
 'Why aren\'t you working fine?' + \
 '\n\n' + \
 '_Usually the most likely reason is that there\'s a power or internet outage here. ' + \
@@ -68,10 +76,10 @@ SHEET_LINK + ' (editable sheet). If you do not find your clue there within a day
 clue_regex = re.compile(r"""
 	.+ # The clue could be any (non empty) string
 	\( # Opening parenthesis
-	[0-9]* # Single number for enum
+	[0-9]+ # Single number for enum
 	(
 		(,|\.|\-|/)(\ *) # Separators for enum
-		[0-9]* # Potentially more numbers in enum
+		[0-9]+ # Potentially more numbers in enum
 	)* # But we do not know how many more
 	\) # Close parenthesis
 	""", re.VERBOSE)
@@ -108,7 +116,7 @@ but_why_regex = re.compile(r"""
 ########### A few helper functions ###########
 ##############################################
 
-def isnewmessage(line):
+def is_new_message(line):
 	if len(line) < 10:
 		return False
 	if ',' not in line:
@@ -118,10 +126,16 @@ def isnewmessage(line):
 		return True
 	return False
 
-def get_clues(msg_string):
+def get_clues_from_message(msg_string):
+	disallowed_phrases = ['#repost', '#repeat']
 	clues = []
 	if any([char in msg_string for char in '}{[]']):
 		return clues
+	
+	for p in disallowed_phrases:
+		if p in msg_string.lower():
+			return []
+	
 	while True:
 		match = clue_regex.match(msg_string.strip())
 		if match is None:
@@ -159,14 +173,26 @@ def format_timestamp(ts):
 
 def get_clues_from_file(filename):
 	msg_date, msg_time, msg_sender, msg_string = '', '', '', ''
-	all_clues = []
+	foreign_indicators = ['~thc', '~reddit', '~ccs', '~guardian', 
+	'#thc', '#reddit', '#ccs', '#guardian']
+	own_clues, foreign_clues = [], []
 
 	with open(filename) as f:
 		for line in f:
 			line = line.strip()
-			if isnewmessage(line):
-				for clue in get_clues(msg_string):
-					all_clues.append((msg_date, msg_time, msg_sender, clue))
+			if is_new_message(line):
+				clues = get_clues_from_message(msg_string)
+
+				#These clues are from other sources (Reddit/CCS/THC)
+				if any([i in msg_string.lower() for i in foreign_indicators]):
+					for c in clues:
+						foreign_clues.append((msg_date, msg_time, msg_sender, c))
+
+				# These clues are from WGC members
+				else:
+					for c in clues:
+						own_clues.append((msg_date, msg_time, msg_sender, c))
+
 				msg_date = line.split(',')[0].strip()
 				line = ','.join(line.split(',')[1:])
 				msg_time = line.split('-')[0].strip()
@@ -174,10 +200,11 @@ def get_clues_from_file(filename):
 				msg_sender = line.split(':')[0].strip()
 				line = ':'.join(line.split(':')[1:])
 				msg_string = line.strip()
+			
 			else:
 				msg_string += ("\n" + line.strip())
 
-	return all_clues
+	return own_clues, foreign_clues
 
 def make_unique(all_clues):
 	seen_clues = set()
@@ -194,7 +221,7 @@ def get_RTS_from_file(filename):
 	with open(filename) as f:
 		for line in f:
 			line = line.strip()
-			if isnewmessage(line):
+			if is_new_message(line):
 				msg_string = ''.join(line.split('- ')[1:])
 				msg_string = ''.join(msg_string.split(': ')[1:])
 				match = add_RTS_regex.match(msg_string.lower().strip())
@@ -208,9 +235,8 @@ def get_RTS_from_file(filename):
 
 	return sorted(all_RTS.items())
 
-def push_clues_to_sheet(clues):
+def push_clues_to_tab(clues, tab_name):
 	n_clues = len(clues)
-	print('\tConnecting to Google Sheets')
 
 	scope = ['https://spreadsheets.google.com/feeds',
 			 'https://www.googleapis.com/auth/drive']
@@ -218,10 +244,7 @@ def push_clues_to_sheet(clues):
 	credentials = ServiceAccountCredentials.from_json_keyfile_name('credentials.json', scope)
 	gc = gspread.authorize(credentials)
 	wks = gc.open("Crossie clues")
-	sheet = wks.sheet1
-
-	print('\tConnection successful')
-	print('\tPushing clues to Google sheets')
+	sheet = wks.worksheet(tab_name)
 
 	row_f = 2
 	row_l = 1 + n_clues
@@ -235,8 +258,25 @@ def push_clues_to_sheet(clues):
 		j = cell.col - 1
 		cell.value = clues[i][j]
 		
-	print('\tMaking updates')
 	sheet.update_cells(cell_range)
+
+# The entire update procedure
+def make_update():
+	# Get clues from the file
+	new_clues_own, new_clues_foreign = get_clues_from_file(NEW_CHATFILE_NAME)
+	old_clues_own, old_clues_foreign = get_clues_from_file(OLD_CHATFILE_NAME)
+	older_clues_own, older_clues_foreign = get_clues_from_file(OLDER_CHATFILE_NAME)
+	
+	# Remove duplicates
+	all_clues_own = make_unique(older_clues_own + old_clues_own + new_clues_own)
+	all_clues_foreign = make_unique(older_clues_foreign + old_clues_foreign + new_clues_foreign)
+	
+	# Push them to the sheet
+	print('\tPushing ' + str(len(all_clues_own)) + ' own clues')
+	push_clues_to_tab(all_clues_own, 'original_clues')
+
+	print('\tPushing ' + str(len(all_clues_foreign)) + ' foreign clues')
+	push_clues_to_tab(all_clues_foreign, 'foreign_clues')
 
 ##############################################
 ############# The main event loop ############
@@ -251,11 +291,7 @@ if __name__ == '__main__':
 	epoch = 1
 
 	print('Making initial update')
-	new_clues = get_clues_from_file(NEW_CHATFILE_NAME)
-	old_clues = get_clues_from_file(OLD_CHATFILE_NAME)
-	older_clues = get_clues_from_file(OLDER_CHATFILE_NAME)
-	all_clues = make_unique(older_clues + old_clues + new_clues)
-	push_clues_to_sheet(all_clues)
+	make_update()
 	print('Done')
 
 	while True:
@@ -268,17 +304,6 @@ if __name__ == '__main__':
 				flag = True
 				with open(NEW_CHATFILE_NAME, 'a+') as chat_file:
 					for m in message_group.messages:
-						# Checking and updating sheet
-						print(m)
-						fmt_ts = format_timestamp(str(m.timestamp))
-						chat_file.write(fmt_ts)
-						chat_file.write(" - ")
-						chat_file.write(str(m.sender.get_safe_name()))
-						chat_file.write(": ")
-						chat_file.write(str(m.content))
-						chat_file.write("\n")
-
-
 						# RTS query
 						query_RTS_match = query_RTS_regex.match(str(m.content).lower())
 						if query_RTS_match is not None:
@@ -308,10 +333,17 @@ if __name__ == '__main__':
 						if but_why_match is not None:
 							driver.send_message_to_id(GROUP_ID, BUT_WHY_LINK)
 
+						# Checking and updating sheet
+						print(m)
+						fmt_ts = format_timestamp(str(m.timestamp))
+						chat_file.write(fmt_ts)
+						chat_file.write(" - ")
+						chat_file.write(str(m.sender.get_safe_name()))
+						chat_file.write(": ")
+						chat_file.write(str(m.content))
+						chat_file.write("\n")
+
 		if flag:
-			new_clues = get_clues_from_file(NEW_CHATFILE_NAME)
-			old_clues = get_clues_from_file(OLD_CHATFILE_NAME)
-			older_clues = get_clues_from_file(OLDER_CHATFILE_NAME)
-			all_clues = make_unique(older_clues + old_clues + new_clues)
-			push_clues_to_sheet(all_clues)
+			print('Updating sheet with clues')
+			make_update()
 		epoch += 1
