@@ -78,14 +78,14 @@ clue_regex = re.compile(r"""
 	\( # Opening parenthesis
 	[0-9]+ # Single number for enum
 	(
-		(,|\.|\-|/)(\ *) # Separators for enum
+		(,|\.|\-|/)(\s*) # Separators for enum
 		[0-9]+ # Potentially more numbers in enum
 	)* # But we do not know how many more
 	\) # Close parenthesis
 	""", re.VERBOSE)
 
 add_RTS_regex = re.compile(r"""
-	\@([0-9]*) # @phone_number
+	\@([0-9]+) # @phone_number
 	(\s*) # Any amount of space
 	rts # RTS!
 	(\s*) # Any amount of space
@@ -106,10 +106,12 @@ help_regex = re.compile(r"""
 	""", re.VERBOSE)
 
 but_why_regex = re.compile(r"""
+	^ # This must be the beginning of the line
 	but
 	(\s*) # any amount of space
 	why
 	(\?)?
+	$ # This must be the end of the line
 	""", re.VERBOSE)
 
 ##############################################
@@ -167,6 +169,15 @@ def format_timestamp(ts):
 	fmt_date = '/'.join([str(m), str(d), str(y % 100)])
 	return fmt_date + ', ' + fmt_time
 
+def make_unique(all_clues):
+	seen_clues = set()
+	unique_clues = []
+	for c in all_clues:
+		if c[3] not in seen_clues:
+			seen_clues.add(c[3])
+			unique_clues.append(c)
+	return unique_clues
+
 ##############################################
 ######## Heavier lifing happens here #########
 ##############################################
@@ -205,15 +216,6 @@ def get_clues_from_file(filename):
 				msg_string += ("\n" + line.strip())
 
 	return own_clues, foreign_clues
-
-def make_unique(all_clues):
-	seen_clues = set()
-	unique_clues = []
-	for c in all_clues:
-		if c[3] not in seen_clues:
-			seen_clues.add(c[3])
-			unique_clues.append(c)
-	return unique_clues
 
 def get_RTS_from_file(filename):
 	all_RTS = {}
@@ -301,7 +303,6 @@ if __name__ == '__main__':
 		unread = driver.get_unread()
 		for message_group in unread:
 			if message_group.chat.id == GROUP_ID:
-				flag = True
 				with open(NEW_CHATFILE_NAME, 'a+') as chat_file:
 					for m in message_group.messages:
 						# RTS query
@@ -333,7 +334,7 @@ if __name__ == '__main__':
 						if but_why_match is not None:
 							driver.send_message_to_id(GROUP_ID, BUT_WHY_LINK)
 
-						# Checking and updating sheet
+						# Printing a bunch of stuff
 						print(m)
 						fmt_ts = format_timestamp(str(m.timestamp))
 						chat_file.write(fmt_ts)
@@ -343,6 +344,11 @@ if __name__ == '__main__':
 						chat_file.write(str(m.content))
 						chat_file.write("\n")
 
+						# Check if any new clues have come in
+						if get_clues_from_message(str(m.content)) != []:
+							flag = True
+
+		# Push clues to sheet only if any new ones have arrived
 		if flag:
 			print('Updating sheet with clues')
 			make_update()

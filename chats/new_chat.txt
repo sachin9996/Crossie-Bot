@@ -44182,3 +44182,531 @@ Ruins + S(evill)E*
 7/11/18, 5:12 PM - Smrithi Sundar: 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
 7/11/18, 5:20 PM - Shashwat: I hope you remember what comes next
 7/11/18, 5:56 PM - Smrithi Sundar: Hahaha
+7/11/18, 10:11 PM - ferrilsamal: Secret scum inside spice.(5)
+7/11/18, 10:11 PM - ferrilsamal: Look around very softly this season.(6)
+7/11/18, 10:12 PM - Kumaresh Ramakrishnan: Interesting 😂
+7/11/18, 10:11 PM - ferrilsamal: Unni gave his heart to Monica, perhaps for spice.(8)
+7/11/18, 10:12 PM - ferrilsamal: It can be black or green for a parent following yellow or red, say.(8)
+7/11/18, 10:13 PM - adityaparameswaran1999: Cinnamon
+7/11/18, 10:13 PM - Kumaresh Ramakrishnan: Gg
+7/11/18, 10:13 PM - adityaparameswaran1999: U(nn)i+Monica*
+7/11/18, 10:13 PM - Karthi Srinivasan: Cumin
+7/11/18, 10:14 PM - Karthi Srinivasan: Cardamom?
+7/11/18, 10:15 PM - Kumaresh Ramakrishnan: @919840402685 on 🔥
+7/11/18, 10:16 PM - dhanushdb: Anno?
+7/11/18, 10:16 PM - Karthi Srinivasan: Just went with a parent following, so a mom
+7/11/18, 10:17 PM - dhanushdb: Ohh yellow card and red card I guess
+Thanks!
+7/11/18, 10:17 PM - Karthi Srinivasan: Oh lol yeah
+7/11/18, 10:17 PM - Sachin Sridhar: Everyone killing it, barely got a chance to see Ferril's clues haha
+7/11/18, 10:17 PM - Kumaresh Ramakrishnan: @919962126770 this is left
+7/11/18, 10:17 PM - Advaith J: XD yeah, same
+7/11/18, 10:18 PM - Kumaresh Ramakrishnan: Ooo PEPPER
+7/11/18, 10:18 PM - Kumaresh Ramakrishnan: Peer around pp
+7/11/18, 10:18 PM - Advaith J: Shiiiiiiz
+7/11/18, 10:18 PM - Sachin Sridhar: So much for that
+7/11/18, 10:18 PM - Kumaresh Ramakrishnan: Season 👌
+7/11/18, 10:18 PM - Kumaresh Ramakrishnan: Soz🙈
+7/11/18, 10:18 PM - Sachin Sridhar: Whatte Kums
+7/11/18, 10:18 PM - Advaith J: 🤣
+7/11/18, 10:19 PM - dhanushdb: Where does pp come from?
+7/11/18, 10:19 PM - Kumaresh Ramakrishnan: Very soft
+7/11/18, 10:19 PM - ferrilsamal: Brutus
+7/11/18, 10:19 PM - Kumaresh Ramakrishnan: 🌚
+7/11/18, 10:19 PM - Sachin Sridhar: RePeAt KoScHaN
+7/11/18, 10:19 PM - Kumaresh Ramakrishnan: Loooool
+7/11/18, 10:19 PM - Advaith J: That's what Tony Stark said
+7/11/18, 10:19 PM - Kumaresh Ramakrishnan: 😂😂😂😂
+7/11/18, 10:22 PM - Akash A: BEGIN:VCARD
+VERSION:3.0
+N:Tarimala;Abhiram;;;
+FN:Abhiram Tarimala
+item1.TEL:+91 70196 17719
+item1.X-ABLabel:Mobile
+item2.TEL;waid=919972297121:+91 99722 97121
+item2.X-ABLabel:Mobile
+END:VCARD
+7/11/18, 10:22 PM - Akash A: Add this boi.
+7/11/18, 10:25 PM - Unnikrishnan P V: = a better lou story than twilight?
+7/11/18, 10:26 PM - Unnikrishnan P V: When is he not?
+7/11/18, 10:26 PM - Unnikrishnan P V: Me too😟
+7/11/18, 10:26 PM - Kumaresh Ramakrishnan: 🌚
+7/11/18, 10:26 PM - Unnikrishnan P V: +1
+7/11/18, 10:26 PM - Unnikrishnan P V: Heartbreaxx. How to put yempty hart imojy? @919003132487 ?
+7/11/18, 10:27 PM - Smrithi Sundar: <3
+7/11/18, 10:27 PM - Ranjani Srinivasan: ♡
+7/11/18, 10:27 PM - dhanushdb: ♡
+7/11/18, 10:27 PM - Smrithi Sundar: Noooooo
+7/11/18, 10:27 PM - Unnikrishnan P V: Never misses a ~tam~ Pun chance
+7/11/18, 10:27 PM - Unnikrishnan P V: That doesn't work no?
+7/11/18, 10:27 PM - Smrithi Sundar: That's not a pun
+7/11/18, 10:28 PM - Shreya Swaminathan Harita: It's a phone keyboard thing, 2nd panel of symbols
+7/11/18, 10:28 PM - Akhil Ashok: ♡
+7/11/18, 10:28 PM - Smrithi Sundar: It's a twss. With great Timing
+7/11/18, 10:28 PM - Unnikrishnan P V: fek the ~~ didn't work on pun part.
+7/11/18, 10:28 PM - Unnikrishnan P V: Ooh
+7/11/18, 10:28 PM - adityaparameswaran1999: Ob you'll be more interesting than a centuries' old vampire
+7/11/18, 10:29 PM - Unnikrishnan P V: Me no found hart . Only these balls °°
+7/11/18, 10:29 PM - Akhil Ashok: You'll find it in charmap on Windows I think
+7/11/18, 10:29 PM - Unnikrishnan P V: 😐
+7/11/18, 10:29 PM - Unnikrishnan P V: 😮😮
+7/11/18, 10:29 PM - Akhil Ashok: You don't use it huh
+7/11/18, 10:30 PM - adityaparameswaran1999: There goes my compliment...
+I'll see myself out then
+7/11/18, 10:30 PM - Shreya Swaminathan Harita: ~twss~
+7/11/18, 10:30 PM - Unnikrishnan P V: But but ....
+7/11/18, 10:30 PM - Unnikrishnan P V: 🌝
+7/11/18, 10:30 PM - Unnikrishnan P V: I is not noing yabout thet wan.
+7/11/18, 10:31 PM - Kumaresh Ramakrishnan: Wut
+7/11/18, 10:31 PM - Smrithi Sundar: Real offered nothing and let down only top attacking player (7)
+7/11/18, 10:31 PM - Unnikrishnan P V: Halli form of ' I'm not aware of that'
+7/11/18, 10:32 PM - Ranjani Srinivasan: Is Halli a mallu word? I thought it was only a Kannada word
+7/11/18, 10:32 PM - dhanushdb: Nice
+7/11/18, 10:32 PM - Shashwat: It's a Marathi word as well
+7/11/18, 10:32 PM - Ranjani Srinivasan: +1
+7/11/18, 10:32 PM - Shashwat: Just means something else
+7/11/18, 10:33 PM - Unnikrishnan P V: Kannada only. Not my jargon. Its bang Bois jargon @919008389632 @918971803636 @919108791307 @919731090474 @919036506756 @918884647279 @919740152113
+7/11/18, 10:33 PM - Unnikrishnan P V: Did I miss out any one?
+7/11/18, 10:33 PM - Shashwat: Screw IITs; join extremely eminent and essentially virtuous educational non-establishment (3, 9)
+7/11/18, 10:33 PM - Hathim: Wow
+7/11/18, 10:33 PM - Smrithi Sundar: Jio institute
+7/11/18, 10:33 PM - Shashwat: Does RR Nagar count.
+7/11/18, 10:33 PM - Ranjani Srinivasan: How2
+7/11/18, 10:33 PM - Unnikrishnan P V: Lollll
+7/11/18, 10:33 PM - Sachin Sridhar: ...
+7/11/18, 10:34 PM - Smrithi Sundar: Beaut
+7/11/18, 10:34 PM - Abhiram: @918310606598 , the man who made it famous
+7/11/18, 10:34 PM - Shashwat: Wow
+7/11/18, 10:34 PM - Sachin Sridhar: Very nice
+7/11/18, 10:34 PM - Shashwat: Thanks people
+7/11/18, 10:34 PM - Vimal Mollyn: Wow
+7/11/18, 10:35 PM - Unnikrishnan P V: Of fek I is fargotten ze mayn man
+7/11/18, 10:35 PM - Unnikrishnan P V: 🤔
+7/11/18, 10:35 PM - Kumaresh Ramakrishnan: 😮
+7/11/18, 10:35 PM - Shashwat: (IITs join E..T + ..TU..)*
+7/11/18, 10:36 PM - Rakesh R: lel
+7/11/18, 10:36 PM - Sachin Sridhar: Does HSR Layout count? Or Banashankari? XD
+7/11/18, 10:36 PM - Kumaresh Ramakrishnan: Ronaldo
+7/11/18, 10:36 PM - Kumaresh Ramakrishnan: Acrostic
+7/11/18, 10:37 PM - Unnikrishnan P V: Learning the ball game eh?
+7/11/18, 10:37 PM - Kumaresh Ramakrishnan: Dei I'm not that ignorant about football
+7/11/18, 10:37 PM - Unnikrishnan P V: 🌝
+7/11/18, 10:37 PM - Unnikrishnan P V: Time to invoke pm texts
+7/11/18, 10:37 PM - Smrithi Sundar: Put in ccs
+7/11/18, 10:37 PM - Unnikrishnan P V: Yeah.
+7/11/18, 10:38 PM - Zainab Ummer Farook: 🔥🔥🔥
+7/11/18, 10:39 PM - Ananth Sundararaman: XD
+7/11/18, 10:39 PM - Nithin Ramesan: Wp
+7/11/18, 10:39 PM - Kumaresh Ramakrishnan: Dei🌚
+7/11/18, 10:39 PM - Shashwat: @919757395067 will kill me
+7/11/18, 10:42 PM - ferrilsamal: Every mallu knows the word Halli ... Though it's dig... "Sree Halli leku Vali edhu"
+7/11/18, 10:42 PM - Ranjani Srinivasan: What does it mean?
+7/11/18, 10:42 PM - ferrilsamal: They also know the dig for tea is not chala
+7/11/18, 10:43 PM - ferrilsamal: According to a certain iconic comedy scene.. to talk in dig you change the zhi sound into li
+7/11/18, 10:44 PM - ferrilsamal: What is the route to sree halli
+7/11/18, 10:44 PM - Akhil Ashok: New acrostic gawd
+7/11/18, 10:45 PM - Akhil Ashok: 🔥🔥
+7/11/18, 10:46 PM - Ranjani Srinivasan: Thanks.
+7/11/18, 10:46 PM - Akhil Ashok: 🤣🤣
+7/11/18, 10:46 PM - Kumaresh Ramakrishnan: Why ra
+7/11/18, 10:47 PM - ferrilsamal: Super
+7/11/18, 10:47 PM - ferrilsamal: Too good
+7/11/18, 10:48 PM - ferrilsamal: Our instead of only?
+7/11/18, 10:49 PM - Smrithi Sundar: I'm not real fan 😋
+7/11/18, 10:49 PM - Smrithi Sundar: So can't say "our"
+7/11/18, 10:49 PM - Unnikrishnan P V: 💓💓
+7/11/18, 10:49 PM - Akhil Ashok: Now real will have a chance at la Liga
+7/11/18, 10:50 PM - Unnikrishnan P V: XD
+7/11/18, 10:50 PM - Unnikrishnan P V: *gawdess
+7/11/18, 10:50 PM - Smrithi Sundar: Real fans triggered
+7/11/18, 10:51 PM - Unnikrishnan P V: But they never were real real fans
+7/11/18, 10:51 PM - Akhil Ashok: Sad that belgium is out
+7/12/18, 2:15 AM - Advaith J: @919757395067 matchwinner wonly
+7/12/18, 2:16 AM - Aniruddh Raman: 😂
+7/12/18, 2:17 AM - Aniruddh Raman: [02/07, 00:09] ‪+91 94009 45731‬: But you wanna be the player who got knocked out or one that can win the WC?
+7/12/18, 9:34 AM - ferrilsamal: Yeah... I was thinking same thing yesterday...
+7/12/18, 11:55 AM - Unnikrishnan P V: 😟
+7/12/18, 2:15 PM - Unnikrishnan P V: @919108791307
+7/12/18, 2:15 PM - Unnikrishnan P V: Yup
+7/12/18, 2:14 PM - Aniruddh Raman: (Penis)* r
+7/12/18, 2:14 PM - Unnikrishnan P V: Yup.
+7/12/18, 2:14 PM - Aniruddh Raman: Sniper
+7/12/18, 2:14 PM - Unnikrishnan P V: Sharp shooter penis wronged king (6)
+7/12/18, 2:09 PM - Unnikrishnan P V: 😂
+7/12/18, 1:02 PM - Akhil Ashok: Good luck in the finals
+7/12/18, 11:55 AM - Unnikrishnan P V: Regretss
+7/12/18, 6:40 PM - Unnikrishnan P V: Half 2017 batch would have cupped in that case.
+7/12/18, 6:40 PM - Unnikrishnan P V: 😮😮
+7/12/18, 6:40 PM - Akhil Ashok: No. 2 credits each life skills and pro e
+7/12/18, 6:39 PM - Unnikrishnan P V: It was zero credit no?
+7/12/18, 6:39 PM - Akhil Ashok: Wa hu?
+7/12/18, 6:38 PM - Akhil Ashok: Not for me
+7/12/18, 6:37 PM - Unnikrishnan P V: GRE level inglish >>> letter rearrangement
+7/12/18, 6:37 PM - Unnikrishnan P V: 🏃🏽‍♂🏃🏽‍♂
+7/12/18, 6:37 PM - Akash A: #Whosthesmartestcoord
+7/12/18, 6:37 PM - Kumaresh Ramakrishnan: 🌚
+7/12/18, 6:37 PM - Unnikrishnan P V: *dirty
+7/12/18, 6:37 PM - Akash A: Unfortunate coincidence
+7/12/18, 6:37 PM - Unnikrishnan P V: #Who'sTheDirtCoord
+7/12/18, 6:36 PM - Akash A: Dei no da 😂
+7/12/18, 6:36 PM - Unnikrishnan P V: 😂😂😂😟
+7/12/18, 6:36 PM - Kumaresh Ramakrishnan: Crotch sonna odane entry smh
+7/12/18, 6:36 PM - Unnikrishnan P V: Cuz it's life's kills not life skills
+7/12/18, 6:36 PM - Rakesh R: playfully, so it is all chill 😌
+7/12/18, 6:36 PM - Unnikrishnan P V: Eyy it was something along the lines of 'what will happen to revenue generating through alcohol'
+7/12/18, 6:36 PM - Akash A: ...why
+7/12/18, 6:35 PM - Akash A: ...what
+7/12/18, 6:35 PM - Rakesh R: @919884184060
+7/12/18, 6:35 PM - Rakesh R: Some dude nearly got his crotch punched by an instructor in Life Skills 2013
+7/12/18, 6:35 PM - Unnikrishnan P V: He went and talked to Anbu afterwards to make his side clear tho XD
+7/12/18, 6:35 PM - Advaith J: +1
+7/12/18, 6:35 PM - Advaith J: Waow
+7/12/18, 6:35 PM - Kumaresh Ramakrishnan: Enna man kelvi kette?
+7/12/18, 6:34 PM - Kumaresh Ramakrishnan: Paaaaa
+7/12/18, 6:34 PM - Unnikrishnan P V: @919445993351 being one of the 'kids'
+7/12/18, 6:34 PM - Unnikrishnan P V: 😂
+7/12/18, 6:34 PM - Unnikrishnan P V: Kids fired questions and she couldn't answer
+7/12/18, 6:34 PM - Kumaresh Ramakrishnan: Sed 😮
+7/12/18, 6:34 PM - Unnikrishnan P V: We had useless stuff like a women who tried to spread awareness against drugs and alcohol which only made them popular imo
+7/12/18, 6:33 PM - Unnikrishnan P V: We didn't have a single movie.
+7/12/18, 6:33 PM - Unnikrishnan P V: Yeah I slyly shifted to evening and put attendance to sleep
+7/12/18, 6:33 PM - Kumaresh Ramakrishnan: Dei I went only for movie xlasses
+7/12/18, 6:33 PM - Rakesh R: HA
+7/12/18, 6:32 PM - Unnikrishnan P V: Lucky felo you were able to forget
+7/12/18, 6:32 PM - Rakesh R: Friday evenings 🙂🗡
+7/12/18, 6:32 PM - Kumaresh Ramakrishnan: Lol
+7/12/18, 6:32 PM - Unnikrishnan P V: For two sems
+7/12/18, 6:32 PM - Kumaresh Ramakrishnan: Had ra
+7/12/18, 6:32 PM - Shashwat: Didn't we calculate GN credits that day
+7/12/18, 6:32 PM - Unnikrishnan P V: Adei you didn't have ah?
+7/12/18, 6:32 PM - Unnikrishnan P V: Friday mornings wasted.
+7/12/18, 6:32 PM - Kumaresh Ramakrishnan: I was thinking too
+7/12/18, 6:32 PM - Unnikrishnan P V: GN1101 and GN1102
+7/12/18, 6:32 PM - Kumaresh Ramakrishnan: Oh fek😂
+7/12/18, 6:32 PM - Akhil Ashok: Oh I remember now
+7/12/18, 6:32 PM - Unnikrishnan P V: 😂
+7/12/18, 6:31 PM - Chinmayi Gajula: 😂
+7/12/18, 6:31 PM - Rakesh R: How could you forget O:
+7/12/18, 6:31 PM - Unnikrishnan P V: You're better off not knowing
+7/12/18, 6:31 PM - Chinmayi Gajula: Life skills
+7/12/18, 6:31 PM - Akhil Ashok: What's GN tho
+7/12/18, 6:30 PM - Chinmayi Gajula: Yea lol
+7/12/18, 6:30 PM - Unnikrishnan P V: Chinmayi got it anyway😃
+7/12/18, 6:30 PM - Unnikrishnan P V: Changed def cuz not dead not same as living.
+7/12/18, 6:30 PM - Unnikrishnan P V: Yaay
+7/12/18, 6:30 PM - Unnikrishnan P V: GN initiative back for work (6)
+7/12/18, 6:30 PM - Chinmayi Gajula: Ivil
+7/12/18, 6:30 PM - Chinmayi Gajula: Living
+7/12/18, 6:22 PM - Unnikrishnan P V: This still unanswered
+7/12/18, 6:22 PM - Rakesh R: Lol thanks XD
+7/12/18, 6:21 PM - Akhil Ashok: Bullfighting is normally used
+7/12/18, 6:20 PM - Rakesh R: +1
+7/12/18, 6:19 PM - Unnikrishnan P V: 😁
+7/12/18, 6:19 PM - Shashwat: Interesting
+7/12/18, 6:14 PM - Unnikrishnan P V: Yeah
+7/12/18, 6:14 PM - Advaith J: Belief
+7/12/18, 6:14 PM - Unnikrishnan P V: #Jio4NIRF1
+7/12/18, 6:14 PM - Unnikrishnan P V: Reliance student (imaginary) consumed by fight (6)
+7/12/18, 6:11 PM - Unnikrishnan P V: 🐮🐮
+7/12/18, 6:11 PM - Rakesh R: Delightful d-:
+7/12/18, 6:10 PM - Advaith J: Sorry saar
+7/12/18, 6:09 PM - Unnikrishnan P V: Man fights cattle for Spanish beef (4,5) 🤭
+7/12/18, 6:09 PM - Rakesh R: is it a normally used phrase?
+7/12/18, 6:08 PM - Unnikrishnan P V: 😂😂
+7/12/18, 6:08 PM - Ranjani Srinivasan: Or horny entertainment. Horny sport.
+7/12/18, 6:08 PM - Riya R: Wtf😂
+7/12/18, 6:08 PM - Advaith J: 😂 nice
+7/12/18, 6:08 PM - Unnikrishnan P V: 🤭
+7/12/18, 6:08 PM - Unnikrishnan P V: Mouthful of Spanish beef
+7/12/18, 6:08 PM - Unnikrishnan P V: Should have put Spanish beef or something
+7/12/18, 6:06 PM - Zainab Ummer Farook: But also this
+7/12/18, 6:06 PM - Zainab Ummer Farook: Nice da
+7/12/18, 6:06 PM - Unnikrishnan P V: Entertainment spectacle was kinda tuff
+7/12/18, 6:06 PM - Unnikrishnan P V: Ooh
+7/12/18, 6:06 PM - Advaith J: Full bite. Bull fight
+7/12/18, 6:04 PM - Unnikrishnan P V: Yeah...
+7/12/18, 6:03 PM - Advaith J: Should I close
+7/12/18, 5:25 PM - Unnikrishnan P V: Or should I put there?
+7/12/18, 5:25 PM - Unnikrishnan P V: No QC value for this.
+7/12/18, 5:25 PM - Unnikrishnan P V: Nay
+7/12/18, 5:25 PM - Giridhur S: Wrong group
+7/12/18, 5:25 PM - Unnikrishnan P V: 
+7/12/18, 5:24 PM - Unnikrishnan P V: 
+7/12/18, 4:37 PM - Unnikrishnan P V: InStAgRaM
+7/12/18, 4:37 PM - Unnikrishnan P V: Yeah lol.
+7/12/18, 4:37 PM - Advaith J: Realise 🤣
+7/12/18, 4:28 PM - Unnikrishnan P V: Idea creditzz @918015683556
+7/12/18, 4:28 PM - Unnikrishnan P V: Understand concrete scans on phone (7)
+7/12/18, 4:11 PM - Unnikrishnan P V: lol
+7/12/18, 4:11 PM - Advaith J: 🌚 inb4
+7/12/18, 4:10 PM - Advaith J: Spooner's entertainment spectacle is a complete mouthful (4,4)
+7/12/18, 4:03 PM - Unnikrishnan P V: oh shiz
+7/12/18, 4:03 PM - Akhil Ashok: Yeah. Ferril
+7/12/18, 4:03 PM - Sachin Sridhar: I think we've done this Spooner before?
+7/12/18, 4:02 PM - Sachin Sridhar: Tube light
+7/12/18, 3:55 PM - Unnikrishnan P V: Inspired from adhu's pm
+7/12/18, 3:55 PM - Unnikrishnan P V: And now I run 🏃🏽‍♂
+7/12/18, 3:54 PM - Unnikrishnan P V: Oil unyielding Spooner's glowing cylinder (4,5)
+7/12/18, 3:35 PM - Unnikrishnan P V: Donno
+7/12/18, 3:32 PM - Smrithi Sundar: RA trip started ah?
+7/12/18, 3:32 PM - Smrithi Sundar: Bugs Bunny
+7/12/18, 3:20 PM - Unnikrishnan P V: Bump🐰
+7/12/18, 3:13 PM - Unnikrishnan P V: Made it a while back and sent to to Sachin
+7/12/18, 3:13 PM - Unnikrishnan P V: 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
+7/12/18, 3:13 PM - Unnikrishnan P V: .
+7/12/18, 3:09 PM - Unnikrishnan P V: Totally and tegyopoints
+7/12/18, 3:09 PM - Unnikrishnan P V: Eksdee
+7/12/18, 3:07 PM - Smrithi Sundar: 
+7/12/18, 3:07 PM - Smrithi Sundar: 
+7/12/18, 3:06 PM - Smrithi Sundar: Nice
+7/12/18, 3:06 PM - Smrithi Sundar: Ripped off
+7/12/18, 3:06 PM - Advaith J: 😂
+7/12/18, 3:01 PM - Sachin Sridhar: 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
+7/12/18, 3:01 PM - Unnikrishnan P V: Dirty leader Piper copied (6,3)
+7/12/18, 2:57 PM - Aaryaan Sharma: 😂😂😂
+7/12/18, 2:57 PM - Aaryaan Sharma: Rip
+7/12/18, 2:56 PM - Unnikrishnan P V: #inspiredfromvakrdp
+7/12/18, 2:56 PM - Unnikrishnan P V: Cartoon by nun (4,5)
+7/12/18, 2:53 PM - Unnikrishnan P V: I would love to see tarimala trying to kill you😃😃
+7/12/18, 2:53 PM - Ranjani Srinivasan: 😂😂😂
+7/12/18, 2:53 PM - Akash A: BEGIN:VCARD
+VERSION:3.0
+N:Tarimala;Abhiram;;;
+FN:Abhiram Tarimala
+item1.TEL:+91 70196 17719
+item1.X-ABLabel:Mobile
+item2.TEL;waid=919972297121:+91 99722 97121
+item2.X-ABLabel:Mobile
+END:VCARD
+7/12/18, 2:52 PM - Akash A: Add this guy da please he's killing me
+7/12/18, 2:52 PM - Akash A: @919962615051
+7/12/18, 2:50 PM - Unnikrishnan P V: QCStylz
+7/12/18, 2:50 PM - Akash A: +10
+7/12/18, 2:49 PM - Unnikrishnan P V: GN should be dead😠😠
+7/12/18, 2:49 PM - Unnikrishnan P V: GN initiative back. Its not dead (6)
+7/12/18, 2:48 PM - Unnikrishnan P V: City coach's unreal drink (5) surface editzz by vakr
+7/12/18, 2:48 PM - Unnikrishnan P V: @918086746304
+7/12/18, 2:47 PM - Unnikrishnan P V: Nice
+7/12/18, 2:47 PM - Unnikrishnan P V: Ohh
+7/12/18, 2:47 PM - Rakesh R: iVil
+7/12/18, 2:47 PM - Unnikrishnan P V: That's not equal btw.
+7/12/18, 2:47 PM - Unnikrishnan P V: Chemical ~=~ engineering in general
+7/12/18, 2:47 PM - Unnikrishnan P V: 🌚
+7/12/18, 2:47 PM - Aaryaan Sharma: 😢
+7/12/18, 2:47 PM - Aaryaan Sharma: *≠
+7/12/18, 2:47 PM - Aaryaan Sharma: Chemical ≈ chemistry 🙃
+7/12/18, 2:46 PM - Unnikrishnan P V: As he's chemical, makes even more sense
+7/12/18, 2:46 PM - Unnikrishnan P V: *ligand
+7/12/18, 2:45 PM - Akash A: Guys plis to add this legend.
+7/12/18, 2:45 PM - Akash A: Initiative 4150 (4)
+7/12/18, 2:41 PM - Unnikrishnan P V: 
+7/12/18, 2:41 PM - Unnikrishnan P V: 
+7/12/18, 2:41 PM - Unnikrishnan P V: 
+7/12/18, 2:41 PM - Unnikrishnan P V: Yeah.
+7/12/18, 2:40 PM - Karthi Srinivasan: Pepsi
+7/12/18, 2:40 PM - Unnikrishnan P V: City coach says yes in Spanish to drink (5)
+7/12/18, 2:38 PM - Sathvik: 😂
+7/12/18, 2:36 PM - Unnikrishnan P V: Cross group trix.
+7/12/18, 2:36 PM - Unnikrishnan P V: @919036506756 @919495262120
+7/12/18, 2:36 PM - Unnikrishnan P V: Yup
+7/12/18, 2:35 PM - Aaryaan Sharma: Gg
+7/12/18, 2:35 PM - Vikram Venkat: barnacle
+7/12/18, 2:35 PM - Unnikrishnan P V: Marine creature wears out clean bra (8)
+7/12/18, 2:31 PM - Unnikrishnan P V: 😁😁
+7/12/18, 2:30 PM - Akash A: Deii
+7/12/18, 2:18 PM - Unnikrishnan P V: Yup.
+7/12/18, 2:18 PM - Aniruddh Raman: Tejas
+7/12/18, 2:17 PM - Unnikrishnan P V: Birthday boi tamilian enjoys just anything surreal, primarily (5)
+7/12/18, 2:15 PM - Unnikrishnan P V: Mandatory Tagzz
+7/12/18, 9:01 PM - Giridhur S: Btw you can graduate with atmost 4credits fewer than necessary
+7/12/18, 9:00 PM - Unnikrishnan P V: Yeah
+7/12/18, 9:00 PM - Giridhur S: Pmt god
+7/12/18, 9:00 PM - Giridhur S: I think @919840402685 is the gaming gawd now
+7/12/18, 9:00 PM - Giridhur S: Lool
+7/12/18, 8:22 PM - Unnikrishnan P V: 😂
+7/12/18, 8:22 PM - Advaith J: But I can't be, not if @917010207190 is there
+7/12/18, 8:22 PM - Advaith J: Was going to say
+7/12/18, 8:22 PM - Unnikrishnan P V: 🤭
+7/12/18, 8:22 PM - Unnikrishnan P V: PC gaming gawd you
+7/12/18, 8:22 PM - Unnikrishnan P V: 👀
+7/12/18, 8:22 PM - Advaith J: Pc gawd
+7/12/18, 8:22 PM - Kumaresh Ramakrishnan: Oops
+7/12/18, 8:22 PM - Advaith J: They said da kums
+7/12/18, 8:21 PM - Unnikrishnan P V: Just being gender neutral
+7/12/18, 8:21 PM - Unnikrishnan P V: No.
+7/12/18, 8:21 PM - Kumaresh Ramakrishnan: 
+7/12/18, 8:21 PM - Unnikrishnan P V: That eye for a twts
+7/12/18, 8:21 PM - Unnikrishnan P V: 😟😟
+7/12/18, 8:20 PM - Advaith J: 🌚
+7/12/18, 8:20 PM - Advaith J: 😂
+7/12/18, 8:17 PM - Unnikrishnan P V: Wiper of whites from an area dominated by blacks (6)
+7/12/18, 8:16 PM - Unnikrishnan P V: Anyway it's a CD attempt.
+7/12/18, 8:16 PM - Unnikrishnan P V: Or how much cryptic value it has
+7/12/18, 8:16 PM - Unnikrishnan P V: Donno if it works
+7/12/18, 8:16 PM - Unnikrishnan P V: 
+7/12/18, 7:03 PM - Unnikrishnan P V: I can only think of that scene from Oru Vadakkan Veeragadha
+7/12/18, 7:01 PM - Unnikrishnan P V: I have given sub contract to GIF gawdess
+7/12/18, 7:01 PM - Unnikrishnan P V: 😂😂
+7/12/18, 7:01 PM - ferrilsamal: Aruvaal edutha..thiruppi keela vekka mudiyathu... See it through the end.
+7/12/18, 6:58 PM - Unnikrishnan P V: Me not posting again.
+7/12/18, 6:57 PM - Smrithi Sundar: Blue blue clashing af
+7/12/18, 6:57 PM - Unnikrishnan P V: 😟😟
+7/12/18, 6:57 PM - Akash A: Yay bye
+7/12/18, 6:57 PM - Smrithi Sundar: @919400945731 use different colour for 'point'
+7/12/18, 6:57 PM - Akash A: Oh wait I just discovered this is the wrong message to use
+7/12/18, 6:56 PM - Rakesh R: Subtle like the T in subtle
+7/12/18, 6:55 PM - Smrithi Sundar: 😂😂😂😂
+7/12/18, 6:55 PM - Unnikrishnan P V: Mine Da, not yours
+7/12/18, 6:55 PM - Akash A: @919008433618 But why
+7/12/18, 6:55 PM - Akash A: Me aa
+You the one who edited
+7/12/18, 6:55 PM - Rakesh R: But why
+7/12/18, 6:55 PM - Guhan Narayanan: 😂😂
+7/12/18, 6:55 PM - Unnikrishnan P V: 😮
+7/12/18, 6:55 PM - ferrilsamal: *scarred
+7/12/18, 6:55 PM - Unnikrishnan P V: 🏃🏽‍♂
+7/12/18, 6:55 PM - Kumaresh Ramakrishnan: 😂😂
+7/12/18, 6:55 PM - Unnikrishnan P V: Also bye bye coordship
+7/12/18, 6:54 PM - Akash A: Starred
+7/12/18, 6:53 PM - Unnikrishnan P V: 🌚
+7/12/18, 6:53 PM - Akhil Ashok: This is why people are advised against uploading photos online
+7/12/18, 6:53 PM - Unnikrishnan P V: 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
+7/12/18, 6:52 PM - Shashwat: Knew you'd pull this out at some point
+7/12/18, 6:51 PM - Kumaresh Ramakrishnan: Tha dei
+7/12/18, 6:49 PM - Unnikrishnan P V: On it.
+7/12/18, 6:49 PM - Akash A: Yeah please do that and put it again.
+7/12/18, 6:49 PM - Unnikrishnan P V: Should I have morphed kums head also?
+7/12/18, 6:48 PM - Unnikrishnan P V: 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
+7/12/18, 6:48 PM - Rakesh R: GOAT GIF
+7/12/18, 6:47 PM - Smrithi Sundar: /9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABCAGQDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAYDBQEEBwj/xAA0EAABBAEDAgMGAgsAAAAAAAABAAIDBAUGERIhQQcTMRQVImGBkSNRJDIzUmJkcXKSoaP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+qEREBERAREQEREBERAREQEREBERAWiz2rsBgJ2wZbLVK9pwDm1+fKZwPcRt3cR8wFg17lruNxEEGHDPe+TssoU3PHJsb37l0hHcMY2STbvw27rs6W01jtN0nQ0Y3PsSnnZuTHnPaf3fK89XOP2HoNhsEGHB6z07nLfsmMy9WW5sSKzneXMQPUiN2ztvntsqFanUen8bqKh7JlazZWNcHxSNJbJC8ej43j4mOHZwIK1mgsjfnrZHFZqVtjKYe17JLYA4+0sLGyRy7di5j28gOnIO26IKlERAREQEREBERAREQRniZN7uh0/nZGl1TD5Rlm1sN+EL4pa75D8mefzP8LSq95c+Fxgc0Oc34HEbjfsfXqFzNEyaJ8czGvje0tcxw3DgfUEdwvKtKVdRw283DojIUI9NULRpU6eVikmHNn7YRSNc1zI2v3Y0O59WOA2AAQWGNrZ6LRjcdmc/UGppYZIxkY67Qxsji7g9sRIDuILenTfb5rTeFDJrU2fy01z3g2exDTZe4BguezwtjkmDR0AdL5u23TZo26bKbw2jZfEGWbM6rjwUH6XPWmGKx/l2ZjXmdDs609zpA0+UejAw7dOXqvX6dWClUhq04Y4K0LBHHFE0NaxoGwAA6AAdkGZERAREQEREBERAREQarVeXj0/pnK5eVvNlGrJY4b/rcWkhv9SRt9V1NAYV+n9GYjGTu52oYAbL9yec7vjldufze5x+q1Xi4yOxpapRmG8d7L46q8fm11yIuH+IKtUEX4aOkidqvHvADKWetCPb92YMs9frOVaKK0ZJx114gQfz9WYD+6lC3f8A5lWqAiIgIiICIiAiIgIiIIrxNAc/SQIBHv8Aq9D8g8j/AGArVEQR2AAb4nav2AHKpjydu5/HG/2A+ysURAREQEREBERAREQf/9k=
+7/12/18, 6:45 PM - Unnikrishnan P V: 🌚
+7/12/18, 6:44 PM - Smrithi Sundar: You asked
+7/12/18, 6:44 PM - Kumaresh Ramakrishnan: That sounded so wrong lel
+7/12/18, 6:44 PM - Kumaresh Ramakrishnan: Why tag me 😶
+7/12/18, 6:44 PM - Smrithi Sundar: No probsunni
+7/12/18, 6:43 PM - Unnikrishnan P V: ThanKa
+7/12/18, 6:43 PM - Smrithi Sundar: @919940071023
+7/12/18, 6:43 PM - Smrithi Sundar: .
+7/12/18, 6:42 PM - Akhil Ashok: Yes
+7/12/18, 6:42 PM - Unnikrishnan P V: Oh thet
+7/12/18, 6:42 PM - Akash A: Professional ethics?
+7/12/18, 6:42 PM - Akhil Ashok: @919884184060 how did he pass
+7/12/18, 6:42 PM - Kumaresh Ramakrishnan: @919445993351
+7/12/18, 6:41 PM - Unnikrishnan P V: 👀
+7/12/18, 6:41 PM - Pranav Hari: Ayyo dei
+7/12/18, 6:41 PM - Akhil Ashok: Dunno how this dude passed. He one credit short
+7/12/18, 6:40 PM - Akash A: Pro E?
+7/12/18, 6:40 PM - Akhil Ashok: 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
+7/12/18, 9:15 PM - Unnikrishnan P V: Wut XD
+7/12/18, 9:20 PM - Sachin Sridhar: Lol
+7/12/18, 9:20 PM - Kumaresh Ramakrishnan: What ra sachin
+7/12/18, 9:22 PM - Sachin Sridhar: What2do
+You can see what the internet connectivity is like here haha
+7/12/18, 9:24 PM - Unnikrishnan P V: Giant manual about an avenger (3,3)
+7/12/18, 9:25 PM - Zainab Ummer Farook: Ant Man
+7/12/18, 9:25 PM - Unnikrishnan P V: 💓
+7/12/18, 9:25 PM - Zainab Ummer Farook: :D
+7/12/18, 9:47 PM - Unnikrishnan P V: Yeah
+7/12/18, 9:47 PM - Smrithi Sundar: Haffun
+7/12/18, 9:47 PM - Unnikrishnan P V: 😟😟
+7/12/18, 9:47 PM - Unnikrishnan P V: Sure
+7/12/18, 9:47 PM - Smrithi Sundar: I'm sorry I can't make it today. Need to write a report etc
+7/12/18, 9:47 PM - Akash A: Come off to my room pls, if Saras
+7/12/18, 9:47 PM - Unnikrishnan P V: *saras
+7/12/18, 9:46 PM - Unnikrishnan P V: If Smrithi is there Ramu or something, or else somewhere in Sara's I guess
+7/12/18, 9:46 PM - Unnikrishnan P V: Some sounded like Poland footballer names.
+7/12/18, 9:46 PM - Akash A: Where
+7/12/18, 9:46 PM - Kumaresh Ramakrishnan: Neyartha is cup cloos
+7/12/18, 9:46 PM - Unnikrishnan P V: Ey
+7/12/18, 9:46 PM - Kumaresh Ramakrishnan: Good cloos
+7/12/18, 9:46 PM - Unnikrishnan P V: Cupmax cloos
+7/12/18, 9:46 PM - Kumaresh Ramakrishnan: Yeah him too
+7/12/18, 9:46 PM - Unnikrishnan P V: Fker
+7/12/18, 9:46 PM - Unnikrishnan P V: Yeah
+7/12/18, 9:45 PM - Kumaresh Ramakrishnan: Xchequer
+7/12/18, 9:45 PM - Unnikrishnan P V: Was the worst
+7/12/18, 9:45 PM - Unnikrishnan P V: Dude this guy who set day before yesterday
+7/12/18, 9:45 PM - Kumaresh Ramakrishnan: Compared to others
+7/12/18, 9:45 PM - Kumaresh Ramakrishnan: Skulldugger is harder
+7/12/18, 9:45 PM - Unnikrishnan P V: Why😟
+7/12/18, 9:45 PM - Kumaresh Ramakrishnan: You chose the wrong day lol
+7/12/18, 9:45 PM - Rakesh R: HOW
+7/12/18, 9:45 PM - Unnikrishnan P V: @919036506756 @918971803636 @919940147636 @919008389632 @919731090474 @919108791307
+7/12/18, 9:44 PM - Unnikrishnan P V: Anyone up for solving THC?
+7/12/18, 9:49 PM - Unnikrishnan P V: Okey
+7/12/18, 9:49 PM - Smrithi Sundar: Once you guys solve
+7/12/18, 9:49 PM - Smrithi Sundar: Put some nice clues from THC in this group too
+7/12/18, 9:48 PM - Unnikrishnan P V: Time?
+7/12/18, 9:48 PM - Unnikrishnan P V: Wokey Wokesh room it is.
+7/12/18, 9:48 PM - Unnikrishnan P V: Lol
+7/12/18, 9:48 PM - Sathvik: I'm in
+7/12/18, 9:48 PM - Smrithi Sundar: Another day. When some sane person sets I'll come
+7/12/18, 9:48 PM - Unnikrishnan P V: Pls to put time and if you can ask the other Bois who are in saras
+7/12/18, 9:49 PM - Rakesh R: Neyartha
+7/12/18, 9:50 PM - Unnikrishnan P V: No no we solved xchequer
+7/12/18, 9:50 PM - Giridhur S: Kenjifying
+7/12/18, 9:51 PM - Rakesh R: Eee pack d:
+7/12/18, 9:51 PM - Smrithi Sundar: Why daww
+7/12/18, 9:51 PM - Unnikrishnan P V: Are you coming for THC?
+7/12/18, 9:51 PM - Unnikrishnan P V: Or will you be too OP
+7/12/18, 9:52 PM - Akhil Ashok: He says chee
+7/12/18, 9:52 PM - Sachin Sridhar: Lol good luck doing that in our department
+7/12/18, 9:52 PM - Unnikrishnan P V: 😮😮
+7/12/18, 9:52 PM - Sachin Sridhar: Yes please
+7/12/18, 9:52 PM - Akash A: Time idk, anytime soon
+7/12/18, 9:53 PM - Akash A: Let's go to bed early like good bois
+7/12/18, 9:53 PM - Unnikrishnan P V: Okay then
+7/12/18, 9:53 PM - Akash A: Room is 121
+7/12/18, 9:53 PM - Unnikrishnan P V: Me coming
+7/12/18, 9:53 PM - Akash A: Right now ah
+7/12/18, 9:53 PM - Akash A: I'm at CCD wait xD
+7/12/18, 9:53 PM - Unnikrishnan P V: Okay
+7/12/18, 9:53 PM - Akash A: Ten minutes
+7/12/18, 9:53 PM - Unnikrishnan P V: Ping once u cone back
+7/12/18, 9:53 PM - Akash A: Yeah
+7/12/18, 9:53 PM - Smrithi Sundar: Unni aanalum ivlo enthu
+7/12/18, 9:53 PM - Smrithi Sundar: Mavane
+7/12/18, 9:54 PM - Unnikrishnan P V: 😁😁
+7/12/18, 9:54 PM - Kumaresh Ramakrishnan: +1
+7/12/18, 9:55 PM - Unnikrishnan P V: Aaryan also
+7/12/18, 9:55 PM - Unnikrishnan P V: Me chad Vimal and Wokesh solved two days
+7/12/18, 9:55 PM - Unnikrishnan P V: Twas nice
+7/12/18, 9:55 PM - Smrithi Sundar: Chad ?
+7/12/18, 9:55 PM - Unnikrishnan P V: Sathvik
+7/12/18, 9:55 PM - Unnikrishnan P V: He be SciTech gawd
+7/12/18, 9:55 PM - Smrithi Sundar: Lololol
+7/12/18, 9:55 PM - Smrithi Sundar: +10000/
+7/12/18, 9:55 PM - Unnikrishnan P V: Hence Sathvik became Chadwick
+7/12/18, 9:55 PM - Smrithi Sundar: Ahh
+7/12/18, 9:55 PM - Smrithi Sundar: Hence the curious Insta handle
+7/12/18, 9:55 PM - Unnikrishnan P V: You chup
+7/12/18, 9:58 PM - Sathvik: *sigh*
+7/12/18, 10:11 PM - Unnikrishnan P V: Scientist's car initially had flaming cord (8)
+7/12/18, 10:14 PM - Unnikrishnan P V: TUC
+7/12/18, 10:14 PM - Smrithi Sundar: Chadwick 😂😂😂
+7/12/18, 10:14 PM - Unnikrishnan P V: No
+7/12/18, 10:14 PM - Smrithi Sundar: Is this from THC
+7/12/18, 10:14 PM - Smrithi Sundar: Dai dai 😂
+7/12/18, 10:14 PM - Unnikrishnan P V: No treat for expanding
+7/12/18, 10:14 PM - Unnikrishnan P V: 😁
+7/12/18, 10:15 PM - Sathvik: 😂
+7/12/18, 10:16 PM - Akash A: Guys come off
+7/12/18, 10:16 PM - Unnikrishnan P V: Coming
+7/12/18, 10:17 PM - Unnikrishnan P V: In 3
+7/12/18, 10:21 PM - Unnikrishnan P V: Peeps pls to come off to saras 121
+7/12/18, 10:21 PM - Unnikrishnan P V: For TTHC
+7/12/18, 10:23 PM - Kumaresh Ramakrishnan: Lol
+7/12/18, 10:23 PM - Smrithi Sundar: Mavane
+7/12/18, 10:23 PM - Sathvik: Saar, where are you?
+7/12/18, 10:23 PM - Unnikrishnan P V: Thenks
+7/12/18, 10:22 PM - Kumaresh Ramakrishnan: 🌚
+7/12/18, 10:22 PM - Unnikrishnan P V: But lawns are wet now.
+7/12/18, 10:22 PM - Unnikrishnan P V: Would love to
+7/12/18, 10:22 PM - Rakesh R: but why not Himalaya or sth
+7/12/18, 10:21 PM - Rakesh R: **screenshots and sends to ccw**
+7/12/18, 10:24 PM - Kumaresh Ramakrishnan: 😶
+7/12/18, 10:24 PM - Unnikrishnan P V: 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
+7/12/18, 10:24 PM - Kumaresh Ramakrishnan: XD
+7/12/18, 10:25 PM - Smrithi Sundar: Blue circle Vera
+7/12/18, 10:26 PM - Akash A: I am came.
+7/12/18, 10:33 PM - Sachin Sridhar: Haha good catch @919008433618. Fixed this
